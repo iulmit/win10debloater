@@ -52,6 +52,7 @@ else (
 )
 
 
+:programs
 cls
 echo.
 echo  :: Disabling Windows Update
